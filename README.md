@@ -1,6 +1,6 @@
 # Project-Landing-Page
 
-# Linguagem Utilizadas
+# Ferramentas Utilizadas
 
 • HTML5
 • CSS3
