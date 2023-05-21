@@ -1,5 +1,13 @@
 # Project-Landing-Page
 
-Link do site:https://landing-page-project-vyoshio.netlify.app/
+# Linguagem Utilizadas
 
-Link da planilha: https://encurtador.com.br/bcvIL
+• HTML5
+• CSS3
+• JavaScript
+
+## Desafio pela Escola DNC
+
+### Links 
+site:https://landing-page-project-vyoshio.netlify.app/
+planilha: https://encurtador.com.br/bcvIL
